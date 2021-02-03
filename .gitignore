@@ -1,0 +1,10 @@
+*.h5
+*.png
+*.pyc
+*.json
+model/
+templates/
+tensorboard_log/
+.idea/
+
+
